@@ -1,0 +1,6 @@
+{
+  "name": "NexaHome Real Estate",
+  "description": "Full-stack real estate platform for buying, renting, and investing in verified properties across Lahore, Karachi, and Islamabad, complete with user accounts and a role-based admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
